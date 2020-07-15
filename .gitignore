@@ -7,6 +7,8 @@ node_modules
 .env.*.local
 firebase-config.json
 ngrok
+src/firebase-config.js
+.firebaserc
 
 # Log files
 npm-debug.log*

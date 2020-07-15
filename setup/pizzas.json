@@ -1,66 +1,48 @@
 [
   {
     "name": "Ham & Mushroom",
-    "ingredients": [
-      "แฮม",
-      "เห็ด",
-      "มอสซาเรลล่าชีส",
-      "ซอสพิซซ่า"
-    ],
+    "ingredients": ["ハム", "キノコ", "モツァレラチーズ", "ピザソース"],
     "price": 280,
     "url": "https://storage.googleapis.com/devfest-181020.appspot.com/pizzas/hammushroom.jpg"
   },
   {
     "name": "Hawaiian",
     "ingredients": [
-      "สัปปะรด",
-      "แฮม",
-      "เบคอน",
-      "มอสซาเรลล่าชีส",
-      "ซอสพิซซ่า"
+      "パイナップル",
+      "ハム",
+      "ベーコン",
+      "モッツァレラチーズ",
+      "ピザソース"
     ],
     "price": 300,
     "url": "https://storage.googleapis.com/devfest-181020.appspot.com/pizzas/hawaiian.jpg"
   },
   {
     "name": "Tropical Seafood",
-    "ingredients": [
-      "กุ้ง",
-      "ปลาหมึก",
-      "หอยเชลล์",
-      "ซอสเทาซันไอส์แลนด์"
-    ],
+    "ingredients": ["エビ", "イカ", "ホタテ", "サウザンアイランドソース"],
     "price": 340,
     "url": "https://storage.googleapis.com/devfest-181020.appspot.com/pizzas/seafood.jpg"
   },
   {
     "name": "Margherita",
-    "ingredients": [
-      "มะเขือเทศ",
-      "ชีส",
-      "ซอสพิซซ่า"
-    ],
+    "ingredients": ["トマト", "チーズ", "ピザソース"],
     "price": 380,
     "url": "https://storage.googleapis.com/devfest-181020.appspot.com/pizzas/margherita.jpg"
   },
   {
     "name": "Pepperoni",
-    "ingredients": [
-      "เป๊ปเปอโรนี",
-      "ชีส",
-      "ซอสพิซซ่า"
-    ],
+    "ingredients": ["ペパロニ", "チーズ", "ピザソース"],
     "price": 340,
     "url": "https://storage.googleapis.com/devfest-181020.appspot.com/pizzas/pepperoni.jpg"
   },
   {
     "name": "Kickin' Chicken",
     "ingredients": [
-      "ไก่อบ",
-      "ไก่บาร์บีคิว",
-      "พริก",
-      "ชีส",
-      "ซอสพิซซ่า"
+      "焼きチキン",
+      "バーベキューチキン",
+      "チリ",
+      "チーズ",
+      "ピザソース"
     ],
     "price": 340,
     "url": "https://storage.googleapis.com/devfest-181020.appspot.com/pizzas/chicken.jpg"
@@ -68,13 +50,13 @@
   {
     "name": "Sexy Veggie",
     "ingredients": [
-      "มะเขือเทศ",
-      "หัวหอม",
-      "เห็ด",
-      "พริก",
-      "พริกหวาน",
-      "มอสซาเรลล่าชีส",
-      "ซอสพิซซ่า"
+      "トマト",
+      "玉ねぎ",
+      "キノコ",
+      "コショウ",
+      "ベルペッパー",
+      "モツァレラチーズ",
+      "ピザソース"
     ],
     "price": 300,
     "url": "https://storage.googleapis.com/devfest-181020.appspot.com/pizzas/veggie.jpg"
@@ -82,13 +64,13 @@
   {
     "name": "Ultimate Meat",
     "ingredients": [
-      "เป๊ปเปอโรนี",
-      "แฮม",
-      "เบคอน",
-      "ไส้กรอกหมูรมควัน",
-      "ไส้กรอกอิตาเลี่ยน",
-      "มอสซาเรลล่าชีส",
-      "ซอสพิซซ่า"
+      "ペパロニ",
+      "ハム",
+      "ベーコン",
+      "スモークポークソーセージ",
+      "イタリアンソーセージ",
+      "モツァレラチーズ",
+      "ピザソース"
     ],
     "price": 360,
     "url": "https://storage.googleapis.com/devfest-181020.appspot.com/pizzas/ultimateeverything.jpg"

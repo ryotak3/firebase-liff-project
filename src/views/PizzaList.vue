@@ -109,7 +109,7 @@ export default {
           .sendMessages([
             {
               type: "text",
-              text: `สั่ง ${pizza.name}`,
+              text: `注文${pizza.name}`,
             },
           ])
           .then(function() {
@@ -129,7 +129,7 @@ export default {
         .shareTargetPicker([
           {
             type: "text",
-            text: "ช่วยดูเมนูพิซซ่าหน่อย กินไรดี " + line.menuLiffUrl,
+            text: "ピザのメニューを見てください" + line.menuLiffUrl,
           },
         ])
         .then(function() {
